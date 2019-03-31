@@ -3,3 +3,11 @@ guru:
     username: jms username
     password: somepass
     url: someurl
+
+---
+sping:
+  profiles: de
+
+guru:
+  jms:
+    username: jms username $$$ GERMAN
